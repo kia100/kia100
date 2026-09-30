@@ -1,5 +1,5 @@
 ## Welcome
-Alas, there is not much to say here. Move along.
+Alas, there is not much to say here, for now. Move along.
 
 <!--
 **kia100/kia100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
